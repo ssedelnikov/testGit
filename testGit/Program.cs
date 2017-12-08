@@ -12,7 +12,7 @@ namespace testGit
         {
             //test
             //more changes
-            // master branch
+            // dev branch
         }
     }
 }
